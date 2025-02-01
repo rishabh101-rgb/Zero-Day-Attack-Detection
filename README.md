@@ -1,2 +1,2 @@
 # Zero-Day-Attack-Detection
-It attacks unknows cyber security attacks.
+It detects unknown cyber attacks.
